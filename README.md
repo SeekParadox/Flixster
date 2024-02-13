@@ -10,9 +10,9 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Implement network call and table view to display a list of movies currently playing (title, description, image)
-- [ ] App has a collection view with the same list of movies
-- [ ] Uses a tab bar controller to switch between collection view and table view screens
+- [x ] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x ] App has a collection view with the same list of movies
+- [x ] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
@@ -27,16 +27,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-https://giphy.com/gifs/0oyv4bubCFOopAdfzg
+(https://giphy.com/gifs/0oyv4bubCFOopAdfzg)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+Had trouble configuring my first controller. I had a bug when originally creating the first part of the application.
 ## License
 
     Copyright 2024 Michael Waller
